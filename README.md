@@ -30,7 +30,7 @@ pip3 install pyfiglet
 python3 main.py
 ```
 ## Options
-![Gud Baldr Password Generator Image](https://github.com/sercanradulfr/Gud-Baldr-Strong-Password-Generator/gbpassgen.png "Gud Baldr Passowrd Generator Image")
+![Gud Baldr Password Generator Image](https://github.com/sercanradulfr/Gud-Baldr-Strong-Password-Generator/blob/main/gbpassgen.png "Gud Baldr Passowrd Generator Image")
 
 
 
